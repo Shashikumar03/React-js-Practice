@@ -1,8 +1,9 @@
 
 import './App.css';
 import React, { useState } from 'react'
-import FormExample from './FormExample';
-import RedingExamples from './RedingExamples';
+// import FormExample from './FormExample';
+// import RedingExamples from './RedingExamples';
+import FormValidation from './FormValidation';
 
 
 
@@ -21,7 +22,8 @@ function App() {
          
       </div>
       {/* <FormExample/> */}
-      <RedingExamples/>
+      {/* <RedingExamples/> */}
+      <FormValidation/>
 
     
  </>

@@ -64,3 +64,27 @@
   margin: 2px auto 5px;
   text-align: center;
 }
+.error{
+  color: red;
+  display: inline-block;
+  padding: 0 10px;
+}
+
+.container{
+  background-color: #61dafb;
+  height: 200px;
+  width: 200px;
+  padding: 5px auto 50px;
+  margin: 20px auto 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.formValidation{
+  /* background-color: blueviolet; */
+  margin: 5px;
+  padding: 5px;
+}
+.validationButton{
+  margin: 5px 50px  auto;
+}
